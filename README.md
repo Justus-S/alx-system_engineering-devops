@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shell, permissions
+starting to write scripts exercise
